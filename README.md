@@ -43,7 +43,7 @@ In earlier iterations of LangChain (v0.1 - v0.2), workflows relied heavily on br
 |             |                                                                     |
 |             v                                                                     |
 |  +-----------------------+       Checkpointing       +-------------------------+  |
-|  |     create_agent      | <=======================> | InMemorySaver / Postgres|  |
+|  |     create_agent      | <=======================> | InMemorySaver           |
 |  | (CompiledStateGraph)  |    (Thread Isolation)     +-------------------------+  |
 |  +-----------------------+                                                        |
 |             |                                                                     |
