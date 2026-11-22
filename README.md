@@ -1,4 +1,4 @@
-# Modern LangChain (v1.x) & LangGraph Masterclass
+# Modern LangChain (v1.x) & LangGraph 
 
 [![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
 [![LangChain v1.x](https://img.shields.io/badge/LangChain-1.x-brightgreen.svg)](https://docs.langchain.com)
